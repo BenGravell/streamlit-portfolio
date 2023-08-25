@@ -2,7 +2,7 @@
 layout: page
 title: Vibes
 subtitle: Time Series Classification
-toc: true
+toc: false
 show_sidebar: false
 ---
 

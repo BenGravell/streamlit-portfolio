@@ -2,7 +2,7 @@
 layout: page
 title: Terra
 subtitle: Personalized Country Recommender
-toc: true
+toc: false
 show_sidebar: false
 ---
 

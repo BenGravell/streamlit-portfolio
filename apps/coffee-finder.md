@@ -2,7 +2,7 @@
 layout: page
 title: Coffee Finder
 subtitle: Find Good Coffee Near You
-toc: true
+toc: false
 show_sidebar: false
 ---
 
