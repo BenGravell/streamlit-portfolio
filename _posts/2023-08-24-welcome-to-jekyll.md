@@ -4,6 +4,27 @@ title:  "Welcome to Jekyll!"
 date:   2023-08-24 22:52:54 -0400
 categories: jekyll update
 ---
+
+
+
+# Ben Gravell's Streamlit Portfolio
+
+
+## Streamlit Apps
+
+
+https://terra-country-recommender.streamlit.app/ Terra (Personalized Country Recommender)
+
+https://vibes-timeseries-classification.streamlit.app/ Vibes (Time Series Classification)
+
+https://coffee-finder.streamlit.app/ Coffee Finder
+
+
+
+Thank you for visiting! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benjamin-gravell/).
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
