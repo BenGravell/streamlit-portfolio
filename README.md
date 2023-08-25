@@ -1,2 +1,2 @@
 # streamlit-portfolio
- Digital portfolio of streamlit apps
+Digital portfolio of streamlit apps

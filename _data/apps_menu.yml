@@ -1,0 +1,8 @@
+- label: Apps Menu
+  items:
+    - name: Terra
+      link: /apps/terra
+    - name: Vibes
+      link: /apps/vibes
+    - name: Coffee-Finder
+      link: /apps/coffee-finder
