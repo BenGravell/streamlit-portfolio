@@ -6,8 +6,9 @@ toc: false
 show_sidebar: false
 ---
 
-https://terra-country-recommender.streamlit.app/
+Terra is an app designed to help you answer the question "which country should I live in?"
 
+Try it below or at <a target="_blank" rel="noopener noreferrer" href="https://terra-country-recommender.streamlit.app">https://terra-country-recommender.streamlit.app</a>
 
 <!-- https://bulma.io/documentation/elements/image/#arbitrary-ratios-with-any-element -->
 

@@ -6,7 +6,9 @@ toc: false
 show_sidebar: false
 ---
 
-https://coffee-finder.streamlit.app/
+Coffee Finder is an app designed to help find good coffee near you.
+
+Try it below or at <a target="_blank" rel="noopener noreferrer" href="https://coffee-finder.streamlit.app">https://coffee-finder.streamlit.app</a>
 
 <!-- https://bulma.io/documentation/elements/image/#arbitrary-ratios-with-any-element -->
 

@@ -1,24 +1,12 @@
 ---
 title: Benjamin Gravell
-subtitle: Streamlit App Showcase
+subtitle: Streamlit App Portfolio
 layout: page
 show_sidebar: false
 ---
 
 # What is this?
 
-This website showcases the Streamlit apps that I have built.
+This website showcases a portfolio of [Streamlit](https://streamlit.io/) apps that I have built.
 
-
-
-# Ben Gravell's Streamlit Portfolio
-
-
-## Streamlit Apps
-
-
-
-
-
-Thank you for visiting! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benjamin-gravell/).
-
+Feel free to connect with me on [GitHub](https://github.com/BenGravell) or [LinkedIn](https://www.linkedin.com/in/benjamin-gravell/).

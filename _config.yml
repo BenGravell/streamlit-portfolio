@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Benjamin Gravell Streamlit App Showcase
+title: Streamlit App Portfolio
 email: bjgravell@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A showcase of the Streamlit apps designed and built by Benjamin Gravell.
@@ -28,6 +28,8 @@ github_username:  BenGravell
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
+
+fixed_navbar: top
 
 # Exclude from processing.
 # The following items will not be processed, by default.

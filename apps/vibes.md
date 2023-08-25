@@ -6,7 +6,9 @@ toc: false
 show_sidebar: false
 ---
 
-https://vibes-timeseries-classification.streamlit.app/ 
+Vibes is an app for viewing predictions from a deep neural network trained to perform a time-series classification task.
+
+Try it below or at <a target="_blank" rel="noopener noreferrer" href="https://vibes-timeseries-classification.streamlit.app">https://vibes-timeseries-classification.streamlit.app</a>
 
 <!-- https://bulma.io/documentation/elements/image/#arbitrary-ratios-with-any-element -->
 

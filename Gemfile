@@ -37,3 +37,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # Bulma Clean Theme (Jekyll)
 gem "bulma-clean-theme"
 gem "webrick", "~> 1.8"
+
+# Faraday Retry
+gem 'faraday-retry'
