@@ -1,8 +1,8 @@
 - label: Apps Menu
   items:
     - name: Terra (Personalized Country Recommender)
-      link: /apps/terra
+      link: /terra
     - name: Vibes (Time Series Classification)
-      link: /apps/vibes
-    - name: Coffee-Finder
-      link: /apps/coffee-finder
+      link: /vibes
+    - name: Coffee Finder
+      link: /coffee-finder

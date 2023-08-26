@@ -2,6 +2,7 @@
 title: Benjamin Gravell
 subtitle: Streamlit App Portfolio
 layout: page
+menubar: apps_menu
 show_sidebar: false
 ---
 
