@@ -1,33 +1,31 @@
 ---
 ---
+// Primary color
 $primary: #67B3FB;
+
 // Import Main CSS file from theme
 @import "main";
 
-/* Web Fonts */
-
+// Web Fonts
 @font-face {
 font-family: 'Atkinson Hyperlegible';
 font-style: normal;
 font-weight: 400;
-src: url('/fonts/AtkinsonHyperlegible/AtkinsonHyperlegible-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+src: url('../../fonts/AtkinsonHyperlegible/AtkinsonHyperlegible-Regular.woff2') format('woff2'),
 }
-
 @font-face {
 font-family: 'Atkinson Hyperlegible';
 font-style: normal;
 font-weight: 700;
-src: url('/fonts/AtkinsonHyperlegible/AtkinsonHyperlegible-Bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+src: url('../../fonts/AtkinsonHyperlegible/AtkinsonHyperlegible-Bold.woff2') format('woff2'),
 }
-
 @font-face {
 font-family: 'Figtree';
 font-style: normal;
 font-weight: 400;
-src: url('/fonts/Figtree/Figtree-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+src: url('../../fonts/Figtree/Figtree-Regular.woff2') format('woff2'),
 }
 
-  
 body {
 font-family: 'Atkinson Hyperlegible', Sans-Serif;
 }
@@ -37,4 +35,3 @@ font-family: 'Figtree', Sans-Serif;
 .subtitle {
 font-family: 'Figtree', Sans-Serif;
 }
-
