@@ -3,3 +3,41 @@
 $primary: #67B3FB;
 // Import Main CSS file from theme
 @import "main";
+
+/* Web Fonts */
+
+@font-face {
+font-family: 'Atkinson Hyperlegible';
+font-style: normal;
+font-weight: 400;
+src: local('Atkinson Hyperlegible Regular'), local('Atkinson-Hyperlegible-Regular'),
+        url('/fonts/AtkinsonHyperlegible/AtkinsonHyperlegible-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+font-family: 'Atkinson Hyperlegible';
+font-style: normal;
+font-weight: 700;
+src: local('Atkinson Hyperlegible Bold'), local('Atkinson-Hyperlegible-Bold'),
+        url('/fonts/AtkinsonHyperlegible/AtkinsonHyperlegible-Bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+src: local('Figtree Regular'), local('Figtree-Regular'),
+        url('/fonts/Figtree/Figtree-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+  
+body {
+font-family: 'Atkinson Hyperlegible', Sans-Serif;
+}
+h1, h2, h3, h4, h5 {
+font-family: 'Figtree', Sans-Serif;
+}
+.subtitle {
+font-family: 'Figtree', Sans-Serif;
+}
+
