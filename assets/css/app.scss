@@ -2,6 +2,7 @@
 ---
 // Primary color
 $primary: #67B3FB;
+$link: #67B3FB;
 
 // Import Main CSS file from theme
 @import "main";
@@ -25,6 +26,12 @@ font-style: normal;
 font-weight: 400;
 src: url('../../fonts/Figtree/Figtree-Regular.woff2') format('woff2'),
 }
+@font-face {
+    font-family: 'Figtree';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../../fonts/Figtree/Figtree-Bold.woff2') format('woff2'),
+    }
 
 body {
 font-family: 'Atkinson Hyperlegible', Sans-Serif;
