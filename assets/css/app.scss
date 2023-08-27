@@ -1,8 +1,9 @@
 ---
 ---
-// Primary color
-$primary: #67B3FB;
-$link: #67B3FB;
+
+// Theme colors
+$primary: #008365;
+$link: #41b134;
 
 // Import Main CSS file from theme
 @import "main";
@@ -21,24 +22,31 @@ font-weight: 700;
 src: url('../../fonts/AtkinsonHyperlegible/AtkinsonHyperlegible-Bold.woff2') format('woff2'),
 }
 @font-face {
-font-family: 'Figtree';
-font-style: normal;
-font-weight: 400;
-src: url('../../fonts/Figtree/Figtree-Regular.woff2') format('woff2'),
-}
-@font-face {
-font-family: 'Figtree';
-font-style: normal;
-font-weight: 700;
-src: url('../../fonts/Figtree/Figtree-Bold.woff2') format('woff2'),
-}
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../fonts/SpaceGrotesk/SpaceGrotesk-Regular.woff2') format('woff2'),
+    }
+    @font-face {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../../fonts/SpaceGrotesk/SpaceGrotesk-Bold.woff2') format('woff2'),
+    }
 
 body {
 font-family: 'Atkinson Hyperlegible', Sans-Serif;
 }
 h1, h2, h3, h4, h5 {
-font-family: 'Figtree', Sans-Serif;
+font-family: 'Space Grotesk', Sans-Serif;
 }
 .subtitle {
-font-family: 'Figtree', Sans-Serif;
+font-family: 'Space Grotesk', Sans-Serif;
 }
+
+// Underlines for links in content
+.content {
+    a {
+      text-decoration: underline;
+    }
+  }
