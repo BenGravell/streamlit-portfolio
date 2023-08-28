@@ -6,8 +6,8 @@ menubar: apps_menu
 show_sidebar: false
 ---
 
-# What is this?
+# Welcome! :wave:
 
 This website showcases a portfolio of [Streamlit](https://streamlit.io/) apps that I have built.
 
-Feel free to connect with me on [GitHub](https://github.com/BenGravell) or [LinkedIn](https://www.linkedin.com/in/benjamin-gravell/).
+Like what you see? Connect with me on [GitHub](https://github.com/BenGravell) and [LinkedIn](https://www.linkedin.com/in/benjamin-gravell/).

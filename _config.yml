@@ -28,6 +28,7 @@ github_username:  BenGravell
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jemoji
 
 fixed_navbar: top
 footer_menu: footer_menu
