@@ -2,5 +2,7 @@
   link: /terra
 - name: Gestura
   link: /gestura
+- name: Cartpole Optimal Control
+  link: /cartpole-optimal-control
 - name: Coffee Finder
   link: /coffee-finder

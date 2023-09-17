@@ -4,5 +4,7 @@
       link: /terra
     - name: Gestura (Gesture Prediction from Time Series Data)
       link: /gestura
+    - name Cartpole Optimal Control
+      link: /cartpole-optimal-control
     - name: Coffee Finder
       link: /coffee-finder
