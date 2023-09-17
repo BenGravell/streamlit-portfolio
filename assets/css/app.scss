@@ -34,12 +34,20 @@ src: url('../../fonts/AtkinsonHyperlegible/AtkinsonHyperlegible-Bold.woff2') for
     src: url('../../fonts/SpaceGrotesk/SpaceGrotesk-Bold.woff2') format('woff2'),
     }
 
+// Default font
+* {
+  font-family: 'Atkinson Hyperlegible', Sans-Serif;
+}
+
+// Main theme fonts
 body {
 font-family: 'Atkinson Hyperlegible', Sans-Serif;
 }
 h1, h2, h3, h4, h5 {
 font-family: 'Space Grotesk', Sans-Serif;
 }
+
+// Custom element fonts
 .subtitle {
 font-family: 'Space Grotesk', Sans-Serif;
 }
