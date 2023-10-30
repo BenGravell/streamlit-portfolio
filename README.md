@@ -5,14 +5,14 @@ This website showcases a portfolio of [Streamlit](https://streamlit.io/) apps th
 Feel free to connect with me on [GitHub](https://github.com/BenGravell) or [LinkedIn](https://www.linkedin.com/in/benjamin-gravell/).
 
 
-## usage
+## Development
 
 Run locally with
-```
+```bash
 bundle exec jekyll serve
 ```
 
 Install dependencies with
-```
+```bash
 bundle
 ```
