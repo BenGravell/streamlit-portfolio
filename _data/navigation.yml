@@ -4,5 +4,7 @@
   link: /gestura
 - name: Cartpole
   link: /cartpole-optimal-control
+- name: Structura
+  link: /structura
 - name: Coffee Finder
   link: /coffee-finder

@@ -6,5 +6,7 @@
       link: /gestura
     - name: Cartpole (Optimal Control)
       link: /cartpole-optimal-control
+    - name: Structura (Topology Optimization)
+      link: /structura
     - name: Coffee Finder
       link: /coffee-finder
