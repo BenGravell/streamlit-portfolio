@@ -8,5 +8,7 @@
       link: /cartpole-optimal-control
     - name: Structura (Topology Optimization)
       link: /structura
+    - name: Mosaic Maker
+      link: /mosaic-maker
     - name: Coffee Finder
       link: /coffee-finder
