@@ -6,7 +6,7 @@ toc: false
 show_sidebar: false
 ---
 
-[Terra](https://terra-country-recommender.streamlit.app) is an app designed to help you answer the question "which country should I live in?"
+[Terra](https://terra-country-recommender.streamlit.app) is an app designed to help you answer the question *"which country is right **for me**?"*
 
 Try it below or at [https://terra-country-recommender.streamlit.app](https://terra-country-recommender.streamlit.app)
 
