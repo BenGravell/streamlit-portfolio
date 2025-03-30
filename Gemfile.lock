@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
-    bulma-clean-theme (0.13.3)
+    bulma-clean-theme (0.14.0)
       jekyll (>= 3.9, < 5.0)
       jekyll-feed (~> 0.15)
       jekyll-paginate (~> 1.1)
@@ -265,7 +265,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  bulma-clean-theme
+  bulma-clean-theme (= 0.14.0)
   faraday-retry
   github-pages
   http_parser.rb (~> 0.6.0)

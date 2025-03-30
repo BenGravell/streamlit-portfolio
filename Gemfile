@@ -35,7 +35,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Bulma Clean Theme (Jekyll)
-gem "bulma-clean-theme"
+gem "bulma-clean-theme", "0.14.0"
 gem "webrick", "~> 1.8"
 
 # Jemoji
